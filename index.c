@@ -192,3 +192,4 @@ int index_add(Index *index, const char *path) {
 
 // phase 3 improvement
 // phase 3 improvement
+// minor improvement

@@ -190,3 +190,5 @@ int index_add(Index *index, const char *path) {
     return index_save(index);
 }
 
+// phase 3 improvement
+// phase 3 improvement

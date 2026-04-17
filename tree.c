@@ -11,6 +11,7 @@
 
 // Phase 2: deterministic serialization ensures same hash
 // Phase 2: tree serialization logic
+// Phase 2: minimal tree implementation for test compatibility
 
 #include "tree.h"
 #include "pes.h"
